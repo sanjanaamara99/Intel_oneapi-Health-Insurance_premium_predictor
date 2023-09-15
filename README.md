@@ -2,6 +2,7 @@
 
 
 ##Technology Used
+![image](https://github.com/sanjanaamara99/Intel_oneapi-Health-Insurance_premium_predictor/assets/127667720/aa390651-56b8-4cbb-a9dd-3a1555d3014a)
 
 
 
